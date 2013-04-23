@@ -1,0 +1,76 @@
+<xxiaoxml>
+<restaurants>
+<restaurant id="1">
+<name>老二炒饭</name>
+<phone>123456</phone>
+<menu>
+<category name="8元区">
+
+			<items>
+				<item name="肉末茄子" price='8'></item>
+				<item name="麻婆豆腐" price='8'></item>
+				<item name="香菇肉片" price='8'></item>
+				<item name="红烧狮子头" price='8'></item>
+				<item name="爆炒鸭片" price='8'></item>
+				<item name="水煮鱼" price='8'></item>
+			</items>
+</category>
+<category name="9元区"  price='9'>
+<price>9</price>
+				<items>
+				<item name="肉炒尖椒" price='9'></item>
+				<item name="大盘鸡" price='9'></item>
+				<item name="香炒肥肠" price='9'></item>
+			 </items>
+</category>
+<category name="每日特价区"  >
+               <items>
+				<item name="肉炒鸡蛋" price='8'><time>周一</time></item>
+				
+				<item name="酸辣土豆丝" price='8'><time>周二</time></item>
+				
+				<item name="鸡柳拌饭" price='8'><time>周三</time></item>
+			  </items>
+</category>
+</menu>
+</restaurant>
+
+<restaurant id="2">
+<name>老大炒饭</name>
+<phone>1234567</phone>
+<menu>
+<category name="8元区">
+
+			<items>
+				<item name="大肉末茄子" price="8"></item>
+				<item name="大麻婆豆腐" price="8"></item>
+				<item name="大香菇肉片" price="8"></item>
+				<item name="大红烧狮子头" price="8"></item>
+				<item name="大爆炒鸭片" price="8"></item>
+				<item name="大水煮鱼" price="8"></item>
+			</items>
+</category>
+<category name="9元区" >
+
+				<items>
+				<item name="大肉炒尖椒" price="9"></item>
+				<item name="大大盘鸡" price="9"></item>
+				<item name="大香炒肥肠" price="9"></item>
+			 </items>
+</category>
+<category name="每日特价区" >
+
+				<items>
+				<item name="大肉炒鸡蛋" price="8"><time>周一</time></item>
+				
+				<item name="大酸辣土豆丝" price="8"><time>周二</time></item>
+				
+				<item name="大鸡柳拌饭" price="8"><time>周三</time></item>
+			  </items>
+</category>
+</menu>
+</restaurant>
+
+</restaurants>
+
+</xxiaoxml>
